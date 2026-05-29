@@ -1,4 +1,4 @@
-import { useMemo } from 'react'
+import { useMemo, useState } from 'react'
 import { useI18n, pick } from '../lib/i18n.js'
 import { LOCATIONS } from '../lib/store.js'
 import { useGeolocation } from '../lib/useGeo.js'
@@ -9,13 +9,14 @@ import Icon from './Icon.jsx'
 export default function MapScreen({ go }) {
   const { t } = useI18n()
   const { pos, status, request } = useGeolocation(true)
+  const [recenter, setRecenter] = useState(0)
   const near = useMemo(() => (pos ? nearest(pos, LOCATIONS) : null), [pos])
   const arrow = pos && near?.item ? bearing(pos, near.item) : 0
 
   return (
     <div className="screen" style={{ overflow: 'hidden' }}>
       <div className="mapwrap">
-        <MapView stops={LOCATIONS} userPos={pos} onSelect={(id) => go({ name: 'place', id })} />
+        <MapView stops={LOCATIONS} userPos={pos} recenter={recenter} onSelect={(id) => go({ name: 'place', id })} />
 
         {near?.item ? (
           <div className="map-banner">
@@ -30,7 +31,7 @@ export default function MapScreen({ go }) {
           <div className="map-banner"><div className="s">{t('enableLocation')}</div></div>
         ) : null}
 
-        <button className="map-fab" onClick={request} aria-label={t('locateMe')}><Icon name="locate" size={24} /></button>
+        <button className="map-fab" onClick={() => { request(); setRecenter((r) => r + 1) }} aria-label={t('locateMe')}><Icon name="locate" size={24} /></button>
       </div>
     </div>
   )

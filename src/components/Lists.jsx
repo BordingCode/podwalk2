@@ -10,7 +10,11 @@ export function PlacesList({ go }) {
   return (
     <div className="screen">
       <div className="searchbar">
-        <input value={q} onChange={(e) => setQ(e.target.value)} placeholder={t('search')} />
+        <div className="searchfield">
+          <span className="si"><Icon name="search" size={18} /></span>
+          <input value={q} onChange={(e) => setQ(e.target.value)} placeholder={t('search')} />
+          {q && <button className="clear" onClick={() => setQ('')} aria-label="Clear">×</button>}
+        </div>
       </div>
       <div className="list">
         {results.map((l) => (

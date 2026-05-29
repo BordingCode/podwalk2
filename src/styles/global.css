@@ -170,12 +170,18 @@ img { max-width: 100%; display: block; }
 .routecard .desc { padding: 12px 18px 16px; font-size: 13.5px; color: var(--ink); line-height: 1.5; }
 
 .searchbar { padding: 14px 16px 6px; }
-.searchbar input {
-  width: 100%; padding: 12px 16px; border-radius: 24px;
+.searchfield { position: relative; display: flex; align-items: center; }
+.searchfield .si { position: absolute; left: 14px; color: var(--muted); display: grid; place-items: center; pointer-events: none; }
+.searchfield input {
+  width: 100%; padding: 12px 40px 12px 42px; border-radius: 24px;
   border: 1px solid var(--line); background: var(--paper-2); font-size: 15px;
   outline: none;
 }
-.searchbar input:focus { border-color: var(--gold); }
+.searchfield input:focus { border-color: var(--gold); }
+.searchfield .clear {
+  position: absolute; right: 10px; width: 26px; height: 26px; border-radius: 50%;
+  background: var(--line); color: var(--ink); font-size: 18px; line-height: 1; display: grid; place-items: center;
+}
 
 /* ============ Location detail ============ */
 .detail-hero {

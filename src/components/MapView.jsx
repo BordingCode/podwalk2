@@ -19,7 +19,7 @@ function pinIcon(label, color) {
 }
 const meIcon = L.divIcon({ className: '', html: '<div class="me-dot"></div>', iconSize: [18, 18], iconAnchor: [9, 9] })
 
-export default function MapView({ stops, userPos, routeColor, color = '#0f1b2d', onSelect, fitTo }) {
+export default function MapView({ stops, userPos, routeColor, color = '#0f1b2d', onSelect, fitTo, follow, recenter }) {
   const elRef = useRef(null)
   const mapRef = useRef(null)
   const layersRef = useRef({ markers: L.layerGroup(), line: null, me: null })
@@ -65,15 +65,23 @@ export default function MapView({ stops, userPos, routeColor, color = '#0f1b2d',
     }
   }, [stops, routeColor, color, onSelect, fitTo])
 
-  // User position dot.
+  // User position dot (+ optional follow while walking).
   useEffect(() => {
     const map = mapRef.current
     if (!map) return
     if (layersRef.current.me) { map.removeLayer(layersRef.current.me); layersRef.current.me = null }
     if (userPos) {
       layersRef.current.me = L.marker([userPos.lat, userPos.lng], { icon: meIcon, zIndexOffset: 1000 }).addTo(map)
+      if (follow) map.setView([userPos.lat, userPos.lng], Math.max(map.getZoom(), 16), { animate: true })
     }
-  }, [userPos])
+  }, [userPos, follow])
+
+  // Recenter on the user when the FAB is tapped (recenter is a changing counter).
+  useEffect(() => {
+    const map = mapRef.current
+    if (!map || !userPos || recenter == null) return
+    map.setView([userPos.lat, userPos.lng], 16, { animate: true })
+  }, [recenter])
 
   return <div ref={elRef} style={{ height: '100%', width: '100%' }} />
 }

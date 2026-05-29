@@ -35,7 +35,7 @@ export default function RouteView({ routeId, go }) {
   return (
     <div className="screen" style={{ display: 'flex', flexDirection: 'column' }}>
       <div style={{ height: 230, flex: '0 0 auto' }}>
-        <MapView stops={stops} userPos={pos} routeColor={route.color} onSelect={(id) => go({ name: 'place', id })} />
+        <MapView stops={stops} userPos={pos} routeColor={route.color} follow={walking} onSelect={(id) => go({ name: 'place', id })} />
       </div>
 
       {walking ? (
