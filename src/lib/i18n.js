@@ -52,6 +52,7 @@ const STRINGS = {
     da: 'Slå placering til for at se hvor du er.',
     en: 'Enable location to see where you are.'
   },
+  nearMe: { da: 'Nærmest mig', en: 'Nearest me' },
   moreInfo: { da: 'Om & praktisk', en: 'About & info' },
   howToUse: { da: 'Sådan bruger du den', en: 'How to use it' },
   howToText: {

@@ -1,12 +1,27 @@
-import { useState } from 'react'
+import { useState, useMemo } from 'react'
 import { useI18n, pick } from '../lib/i18n.js'
 import { searchLocations, getRoutes, ORDER } from '../lib/store.js'
+import { useGeolocation } from '../lib/useGeo.js'
+import { distance, formatDistance } from '../lib/geo.js'
 import Icon from './Icon.jsx'
 
 export function PlacesList({ go }) {
   const { t } = useI18n()
   const [q, setQ] = useState('')
-  const results = searchLocations(q)
+  const [nearMe, setNearMe] = useState(false)
+  const { pos, status } = useGeolocation(nearMe)
+
+  const results = useMemo(() => {
+    const base = searchLocations(q)
+    if (nearMe && pos) {
+      return [...base]
+        .map((l) => ({ l, d: distance(pos, l) }))
+        .sort((a, b) => a.d - b.d)
+        .map(({ l, d }) => ({ ...l, _dist: d }))
+    }
+    return base
+  }, [q, nearMe, pos])
+
   return (
     <div className="screen">
       <div className="searchbar">
@@ -15,6 +30,12 @@ export function PlacesList({ go }) {
           <input value={q} onChange={(e) => setQ(e.target.value)} placeholder={t('search')} />
           {q && <button className="clear" onClick={() => setQ('')} aria-label="Clear">×</button>}
         </div>
+        <button className={'nearchip' + (nearMe ? ' on' : '')} onClick={() => setNearMe((v) => !v)}>
+          <Icon name="locate" size={15} /> {t('nearMe')}
+        </button>
+        {nearMe && (status === 'denied' || status === 'unavailable') && (
+          <div className="banner-note" style={{ margin: '8px 0 0' }}>{t('enableLocation')}</div>
+        )}
       </div>
       <div className="list">
         {results.map((l) => (
@@ -23,7 +44,12 @@ export function PlacesList({ go }) {
             <div className="body">
               <h3>{pick(l.name)}</h3>
               <p>{pick(l.shortText)}</p>
-              {l.address && <div className="meta" style={{ display: 'flex', alignItems: 'center', gap: 5 }}><Icon name="pin" size={13} /> {l.address}</div>}
+              {l.address && (
+                <div className="meta" style={{ display: 'flex', alignItems: 'center', gap: 5 }}>
+                  <Icon name="pin" size={13} /> {l.address}
+                  {nearMe && pos && l._dist != null && <span style={{ marginLeft: 'auto', color: 'var(--muted)' }}>{formatDistance(l._dist)}</span>}
+                </div>
+              )}
             </div>
           </button>
         ))}
