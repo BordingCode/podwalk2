@@ -42,10 +42,13 @@ export default function Home({ go }) {
         ))}
       </div>
 
-      <div className="about">
-        <div className="section" style={{ padding: '4px 0 8px' }}><h2>{t('about')}</h2></div>
-        <p>{t('aboutText')}</p>
-      </div>
+      <button className="bigcta secondary" style={{ marginTop: 18, marginBottom: 24 }} onClick={() => go({ name: 'about' })}>
+        <span className="ic"><Icon name="note" size={22} /></span>
+        <span>
+          <div className="t">{t('moreInfo')}</div>
+          <div className="s">{t('about')} · {t('howToUse').toLowerCase()}</div>
+        </span>
+      </button>
     </div>
   )
 }

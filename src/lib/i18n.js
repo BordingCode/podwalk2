@@ -51,6 +51,27 @@ const STRINGS = {
   enableLocation: {
     da: 'Slå placering til for at se hvor du er.',
     en: 'Enable location to see where you are.'
+  },
+  moreInfo: { da: 'Om & praktisk', en: 'About & info' },
+  howToUse: { da: 'Sådan bruger du den', en: 'How to use it' },
+  howToText: {
+    da: 'Vælg en rute og tryk "Gå denne rute" — så følger kortet dig, viser afstand til næste stop og foreslår oplæsning, når du er fremme. Du kan også bare udforske alle steder frit eller åbne kortet og finde det nærmeste stop.',
+    en: 'Pick a route and tap "Walk this route" — the map then follows you, shows the distance to the next stop and offers narration when you arrive. You can also browse all places freely or open the map to find the nearest stop.'
+  },
+  narrationTitle: { da: 'Oplæsning', en: 'Narration' },
+  narrationText: {
+    da: 'Hvert sted kan læses højt med din enheds indbyggede stemme — det virker offline og kræver ingen download. Stemmens kvalitet afhænger af din telefon.',
+    en: "Every place can be read aloud using your device's built-in voice — it works offline and needs no download. Voice quality depends on your phone."
+  },
+  offlineTitle: { da: 'Offline', en: 'Offline' },
+  offlineText: {
+    da: 'Appen kan lægges på hjemskærmen og fungerer uden net. Kortfelter, du har set, gemmes også, så de virker offline bagefter.',
+    en: 'Add the app to your home screen and it works without a connection. Map tiles you have viewed are cached too, so they work offline afterwards.'
+  },
+  creditsTitle: { da: 'Kilde & tak', en: 'Source & credits' },
+  creditsText: {
+    da: 'Det historiske indhold bygger på Mette Sonne Friis’ produktspeciale “Aarhus Music Walk”, Aarhus Universitet (2019). Kort: OpenStreetMap & CARTO.',
+    en: 'The historical content is based on Mette Sonne Friis’ thesis “Aarhus Music Walk”, Aarhus University (2019). Maps: OpenStreetMap & CARTO.'
   }
 }
 

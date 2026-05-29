@@ -7,6 +7,7 @@ import { PlacesList, RouteList } from './components/Lists.jsx'
 import MapScreen from './components/MapScreen.jsx'
 import RouteView from './components/RouteView.jsx'
 import LocationDetail from './components/LocationDetail.jsx'
+import About from './components/About.jsx'
 import Icon from './components/Icon.jsx'
 
 const TABS = ['home', 'places', 'routes', 'map']
@@ -85,6 +86,7 @@ function stackTab(stack) {
 
 function headerTitle(view, t) {
   if (view.name === 'place') return t('appName')
+  if (view.name === 'about') return t('moreInfo')
   if (view.name === 'route') return t('routes')
   if (TABS.includes(view.name)) return view.name === 'home' ? t('appName') : t('nav' + cap(view.name))
   return t('appName')
@@ -98,6 +100,7 @@ function Screen({ view, go }) {
     case 'map': return <MapScreen go={go} />
     case 'route': return <RouteView routeId={view.id} go={go} />
     case 'place': return <div className="screen"><LocationDetail loc={getLocation(view.id)} autoPlay={view.autoPlay} /></div>
+    case 'about': return <About />
     default: return <Home go={go} />
   }
 }
