@@ -29,6 +29,20 @@ export default function RouteView({ routeId, go }) {
     }
   }, [arrived, current])
 
+  // Keep the screen awake while walking (so the phone doesn't sleep mid-tour).
+  useEffect(() => {
+    if (!walking || !('wakeLock' in navigator)) return
+    let lock = null
+    const acquire = () => navigator.wakeLock.request('screen').then((l) => { lock = l }).catch(() => {})
+    acquire()
+    const onVis = () => { if (document.visibilityState === 'visible') acquire() }
+    document.addEventListener('visibilitychange', onVis)
+    return () => {
+      document.removeEventListener('visibilitychange', onVis)
+      if (lock) lock.release().catch(() => {})
+    }
+  }, [walking])
+
   if (!route) return <div className="empty">∅</div>
   const pct = Math.round((visited.size / stops.length) * 100)
 
