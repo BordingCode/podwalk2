@@ -2,3 +2,7 @@ node_modules
 .DS_Store
 *.log
 dev-dist
+
+# verification screenshots (not part of the app)
+shots/
+.playwright-mcp/
