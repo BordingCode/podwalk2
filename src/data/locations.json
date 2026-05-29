@@ -1,0 +1,393 @@
+{
+  "locations": [
+    {
+      "id": "byens-tidligste-musik",
+      "name": { "da": "Byens tidligste musik", "en": "The City's Earliest Music" },
+      "address": "Bispetorvet, 8000 Aarhus C",
+      "lat": 56.1567,
+      "lng": 10.2108,
+      "shortText": {
+        "da": "De ældste spor af musik i Aarhus stammer fra området omkring Domkirken og Katedralskolen. Her er fundet fem knoglefløjter fra tiden mellem 1000 og 1500.",
+        "en": "The oldest traces of music in Aarhus come from the area around the Cathedral and Cathedral School. Five bone flutes dating between 1000 and 1500 were found here."
+      },
+      "longText": {
+        "da": "Knoglefløjten er det ældste type musikinstrument i verden, og er fundet for 35.000 år siden. Ifølge undersøgelser af de århusianske knoglefløjter og ældre beskrivelser af dem, kan fløjterne spille over to oktaver, hvilket er nok til at kunne spille både den ældste kendte nordiske melodi, \"Drømte mig en drøm i nat\" fra omkring år 1300, og den ældste kendte århusmelodi, \"In vernalis temporis\" fra omkring år 1500, der desuden lyder fra Rådhusklokkerne i Aarhus en gang om dagen.\n\nMusikken i Aarhus før 1800-tallet fandtes primært i kirkerne, men der blev også spillet verdslig musik uden for de gejstlige institutioner, fx ved de såkaldte stadsmusikanter.",
+        "en": "The bone flute is the oldest type of musical instrument in the world, dating back 35,000 years. According to studies of the Aarhus bone flutes, they could play over two octaves — enough to perform both the oldest known Nordic melody, \"Drømte mig en drøm i nat\" from around 1300, and the oldest known Aarhus melody, \"In vernalis temporis\" from around 1500, which still plays from the City Hall bells once a day.\n\nMusic in Aarhus before the 1800s was found primarily in the churches, but secular music was also played outside religious institutions, for example by the so-called city musicians."
+      },
+      "facts": {
+        "da": { "Periode": "1000-1500", "Fund": "5 knoglefløjter" },
+        "en": { "Period": "1000-1500", "Findings": "5 bone flutes" }
+      },
+      "audio": null,
+      "images": []
+    },
+    {
+      "id": "vor-frue-kirke",
+      "name": { "da": "Vor Frue Kirke", "en": "Church of Our Lady" },
+      "address": "Frue Kirkeplads, 8000 Aarhus C",
+      "lat": 56.1573,
+      "lng": 10.2070,
+      "shortText": {
+        "da": "Byens første kirke var en trækirke på dette sted fra midten af 900-tallet. Vor Frue Kirke består i dag af tre kirker: Vor Frue kirke, klosterkirken og kryptkirken.",
+        "en": "The city's first church was a wooden church at this site from the mid-900s. Today, the Church of Our Lady consists of three churches: the main church, the monastery church, and the crypt church."
+      },
+      "longText": {
+        "da": "Kirken brød i brand i 1046, og blev erstattet af en stenkirke. Denne kirke blev byens første domkirke, opkaldt efter skytshelgen Skt. Nicolai. Krypten fra kirken findes stadig i dag under Vor Frue Kirke, og er Danmarks ældste.\n\nDa en ny domkirke blev taget i brug omkring år 1200, blev Skt. Nicolai kirke overdraget til dominikanerordenen. Dominikanermunkene ombyggede kirken og byggede et firfløjet kloster. Efter reformationen i 1541 blev klosteret omdannet til hospital for syge og fattige.\n\nDet vides ikke om der har været musik i kirkerne i den første tid, men da dominikanerordenen overtog kirken, har der med vished været sang. Dominikanerklostrets ordensregler var sang nemlig en del af gudstjenesten. Der findes også spor af musikken i klosterkirken, hvor kirkens ældste kalkmaleri fra 1517 portrætterer en traversfløjtespiller med en tromme.",
+        "en": "The church burned down in 1046 and was replaced by a stone church. This became the city's first cathedral, named after patron saint St. Nicolai. The crypt from this church still exists beneath the Church of Our Lady and is Denmark's oldest.\n\nWhen a new cathedral was built around 1200, the St. Nicolai church was handed over to the Dominican order. The monks rebuilt the church and constructed a four-winged monastery. After the Reformation in 1541, the monastery was converted into a hospital for the sick and poor.\n\nIt is unknown whether music was played in the churches in the earliest times, but when the Dominican order took over, there was certainly singing. According to the order's rules, song was part of worship. Traces of music also survive in the monastery church, where the oldest mural from 1517 depicts a flute player with a drum."
+      },
+      "facts": {
+        "da": { "Grundlagt": "Ca. 950", "Krypt": "Danmarks ældste" },
+        "en": { "Founded": "Ca. 950", "Crypt": "Denmark's oldest" }
+      },
+      "audio": null,
+      "images": []
+    },
+    {
+      "id": "aarhus-domkirke",
+      "name": { "da": "Århus Domkirke", "en": "Aarhus Cathedral" },
+      "address": "Store Torv, 8000 Aarhus C",
+      "lat": 56.1570,
+      "lng": 10.2115,
+      "shortText": {
+        "da": "Skt. Clemens Kirke er Danmarks længste og højeste domkirke. Musikken i kirken ses i mange former — fra kalkmalerier med musicerende engle til Danmarks største orgel.",
+        "en": "St. Clemens Church is Denmark's longest and tallest cathedral. Music in the church takes many forms — from murals of angels playing music to Denmark's largest organ."
+      },
+      "longText": {
+        "da": "Man begyndte at bygge domkirken i slutningen af 1100-tallet i romansk stil. Den kirke vi kan se i dag, er i grundtræk den gotiske kirke der stod færdig omkring år 1500.\n\nInde i kirken kan man forskellige steder se hvor stor en rolle musikken har og har haft. På de mange kalkmalerier kan man se musicerende engle og mennesker med forskellige musikinstrumenter, som basuner, harper, horn, sækkepiber og mange flere.\n\nKirkens kantor har siden 1266 stået for ledelse af kirkens korsangere. En af kirkens mest indflydelsesrige organister var Johan Utrecht (o. 1606-1661). Billedet af Utrecht og hans familie er det ældste organisportræt i Danmark.\n\nKirkens orgel er i dag fire etager stort, med piber fra alle århundrederne siden 1730. Med 88 registre er det Danmarks største orgel. Oppe ved alteret hænger et kororgel fra 1970 — det eneste orgel i Danmark som hænger i en enkelt wire fra loftet som en lysekrone.",
+        "en": "Construction of the cathedral began in the late 1100s in Romanesque style. The church we see today is essentially the Gothic church completed around 1500.\n\nInside, music's importance is visible everywhere. The many murals show angels and people playing instruments including trumpets, harps, horns, bagpipes, and more.\n\nThe church cantor has led the choir since 1266. One of the most influential organists was Johan Utrecht (c. 1606-1661), whose family portrait is the oldest organist portrait in Denmark.\n\nToday the organ spans four floors with pipes from every century since 1730. With 88 stops, it is Denmark's largest organ. Above the altar hangs a choir organ from 1970 — the only organ in Denmark suspended from the ceiling by a single wire, like a chandelier."
+      },
+      "facts": {
+        "da": { "Navn": "Skt. Clemens Kirke", "Bygget": "Slutningen af 1100-tallet", "Højde": "96 meter", "Orgel": "Danmarks største (88 registre)" },
+        "en": { "Name": "St. Clemens Church", "Built": "Late 1100s", "Height": "96 meters", "Organ": "Denmark's largest (88 stops)" }
+      },
+      "audio": null,
+      "images": []
+    },
+    {
+      "id": "det-forenede-dramatiske-selskab",
+      "name": { "da": "Det forenede dramatiske Selskab", "en": "The United Dramatic Society" },
+      "address": "Store Torv 5, 8000 Aarhus C",
+      "lat": 56.1565,
+      "lng": 10.2100,
+      "shortText": {
+        "da": "I 1800 blev teaterselskabet stiftet. De holdt til i Løveapotekets lokaler på Store Torv og opførte byens første musikdramatiske værk i 1810.",
+        "en": "The theatre society was founded in 1800. They used premises at Løveapoteket on Store Torv and staged the city's first music-dramatic work in 1810."
+      },
+      "longText": {
+        "da": "Borgerne opførte koncerter og skuespil i Løveapotekets lokaler, som fik en hel etage indrettet med teater og balsal — byens første egentlige teatersal. Byens første musikdramatiske opførsel fandt sted på selskabets 10-års dag i 1810.\n\nI 1822 opførte man Mozarts \"Don Juan\" og \"Figaros Bryllup\". De to store operaer var svære at sætte op med teaterets begrænsede ressourcer. Når der ikke kunne skaffes korsangere nok, måtte solisterne synge kor fra kulissen.",
+        "en": "The citizens performed concerts and plays in Løveapoteket's premises, which had an entire floor converted into a theatre and ballroom — the city's first real theatre hall. The city's first music-dramatic performance took place on the society's 10th anniversary in 1810.\n\nIn 1822, they staged Mozart's \"Don Giovanni\" and \"The Marriage of Figaro\". The two great operas were difficult to produce with the theatre's limited resources. When not enough choir singers could be found, the soloists had to sing the chorus from behind the scenes."
+      },
+      "facts": {
+        "da": { "Stiftet": "1800", "Sted": "Løveapoteket, Store Torv" },
+        "en": { "Founded": "1800", "Location": "Løveapoteket, Store Torv" }
+      },
+      "audio": null,
+      "images": []
+    },
+    {
+      "id": "polyhymnia",
+      "name": { "da": "Polyhymnia (\"Svedekassen\")", "en": "Polyhymnia (\"The Sweatbox\")" },
+      "address": "Kannikegade, 8000 Aarhus C",
+      "lat": 56.1555,
+      "lng": 10.2090,
+      "shortText": {
+        "da": "I 1814 slog Kronprindsens Klub og Det forenede dramatiske Selskab sig sammen under navnet Polyhymnia. Deres teatersal i Kannikegade blev kaldt \"Svedekassen\".",
+        "en": "In 1814, the Crown Prince's Club and The United Dramatic Society merged under the name Polyhymnia. Their theatre hall on Kannikegade was nicknamed \"The Sweatbox\"."
+      },
+      "longText": {
+        "da": "Polyhymnia er opkaldt efter musen for sang og dans. Teatersalen stod færdig i 1815, med plads til omkring 500 tilskuere. Gulvet var indrettet så det både kunne bruges som teater- og dansesal — to donkrafte kunne hæve den ene side af gulvet, så publikum bedre kunne se. Ventilationen var meget dårlig, hvorfor århusianerne kaldte salen \"Svedekassen\".\n\nTeatersalen blev brugt til fester og baller, og udlejet til omrejsende selskaber og musikopførelser. Man kunne fx i sommermånederne opleve Det kongelige Teater i salen. Selve klubben Polyhymnia eksisterede helt indtil 1978, men teateret blev nedlagt i 1900 da Århus Teater blev indviet.",
+        "en": "Polyhymnia is named after the muse of song and dance. The theatre hall was completed in 1815, seating about 500 people. The floor was designed to serve as both theatre and dance hall — two jacks could raise one side of the floor so the audience could see better. The ventilation was so poor that locals nicknamed it \"The Sweatbox\".\n\nThe hall hosted parties, balls, and touring companies. In summer, the Royal Theatre from Copenhagen performed here. The club Polyhymnia itself survived until 1978, but the theatre closed in 1900 when Aarhus Theatre opened."
+      },
+      "facts": {
+        "da": { "Stiftet": "1814", "Kapacitet": "Ca. 500 tilskuere", "Lukket": "1900" },
+        "en": { "Founded": "1814", "Capacity": "Ca. 500 spectators", "Closed": "1900" }
+      },
+      "audio": null,
+      "images": []
+    },
+    {
+      "id": "aarhus-moelle",
+      "name": { "da": "Århus Mølle", "en": "Aarhus Mill" },
+      "address": "Vester Allé, 8000 Aarhus C",
+      "lat": 56.1530,
+      "lng": 10.2010,
+      "shortText": {
+        "da": "I den gamle mølle opstod et blomstrende kulturmiljø under Andreas Severin Weis (1815-1889). Møllen var samlingspunkt for kunst og musik i Aarhus.",
+        "en": "A flourishing cultural scene emerged at the old mill under Andreas Severin Weis (1815-1889). The mill became a gathering place for art and music in Aarhus."
+      },
+      "longText": {
+        "da": "Da møllen i 1846 blev købt af Andreas Severin Weis, blev stedet et blomstrende kulturmiljø, hvor der både blev dyrket musik, digtning og billedkunst. Weis' stuehus ved møllen var foruden skulpturer af Bertel Thorvaldsen og malerier af store guldaldermalere, også prydet med orgel, flygel og selvbyggede violiner.\n\nWeis var medstifter af Århus Musikforening og medlem af Kunstforeningens bestyrelse. Han var samlingspunktet i Århus for denne periodes kunst- og særligt musikinteresserede. Indtil Weis' død i 1889 var der jævnligt musikarrangementer, og folk kom til Århus Mølle fra hele landet.\n\nI 1875 forærede han en grund til Århus Kommune til opførelse af Århus Museum. Bygningen er i dag spillestedet Voxhall. På møllekompleksets grund fandt man desuden den store Århus Runesten.",
+        "en": "When the mill was purchased by Andreas Severin Weis in 1846, it became a cultural hub for music, poetry, and visual art. The farmhouse featured sculptures by Bertel Thorvaldsen, paintings by Golden Age artists, plus an organ, grand piano, and handmade violins.\n\nWeis co-founded the Aarhus Music Society and served on the Art Association board. He was the focal point for art and music enthusiasts until his death in 1889, hosting regular music events that drew visitors from across the country.\n\nIn 1875 he donated land for the Aarhus Museum. The building is now the music venue Voxhall. The famous Aarhus Runestone was also found on the mill grounds."
+      },
+      "facts": {
+        "da": { "Ejer": "Andreas Severin Weis", "Periode": "1846-1889" },
+        "en": { "Owner": "Andreas Severin Weis", "Period": "1846-1889" }
+      },
+      "audio": null,
+      "images": []
+    },
+    {
+      "id": "vennelyst",
+      "name": { "da": "Vennelyst", "en": "Vennelyst" },
+      "address": "Vennelystparken, 8000 Aarhus C",
+      "lat": 56.1620,
+      "lng": 10.2030,
+      "shortText": {
+        "da": "Århus' ældste park var et af de mest populære forlystelsessteder i byen. Borgerne samlede sig i parken især omkring musikken.",
+        "en": "Aarhus' oldest park was one of the most popular entertainment venues in the city. Citizens gathered here especially for the music."
+      },
+      "longText": {
+        "da": "Vennelystparkens historie startede i 1824, da oberst Julius Høegh-Guldberg begyndte at ombygge sumpet græsningsareal til en fin have. I 1830 udtalte Høegh-Guldberg: \"Vennelyst staar aaben for Enhver, som er ynder af Naturen\".\n\nNærmest helt fra parkens åbning har der været musik. I de første mange år spillede en musikant hver torsdag aften. I 1880 blev den første sommerrevy opført. Parkens storhedstid var under teaterdirektøren Sofus Mikkelsen (1923-1939). I 1935 fik teatret besøg af jazzkonge Coleman Hawkins.\n\nParkens tid som forlystelsescenter fik en brat afslutning i 1945, da en sprængbombe i teatersalen lagde bygningerne i ruiner.",
+        "en": "Vennelyst Park's history began in 1824, when Colonel Julius Høegh-Guldberg started converting swampy pasture into a fine garden. In 1830 he declared: \"Vennelyst is open to everyone who appreciates Nature.\"\n\nMusic was present almost from the start. For many years, a musician played every Thursday evening. The first summer revue was staged in 1880. The park's heyday was under theatre director Sofus Mikkelsen (1923-1939). In 1935, jazz legend Coleman Hawkins visited.\n\nThe park's time as an entertainment center ended abruptly in 1945, when a bomb in the theatre hall reduced the buildings to ruins."
+      },
+      "facts": {
+        "da": { "Åbnet": "1830", "Opført af": "Oberst Julius Høegh-Guldberg", "Ødelagt": "1945" },
+        "en": { "Opened": "1830", "Built by": "Colonel Julius Høegh-Guldberg", "Destroyed": "1945" }
+      },
+      "audio": null,
+      "images": []
+    },
+    {
+      "id": "aarhus-teater",
+      "name": { "da": "Århus Teater", "en": "Aarhus Theatre" },
+      "address": "Bispegade, 8000 Aarhus C",
+      "lat": 56.1555,
+      "lng": 10.2105,
+      "shortText": {
+        "da": "Århus Teater åbnede i år 1900 med en stor teatersal, en café og en biograf. Der har siden teatrets åbning altid været musik.",
+        "en": "Aarhus Theatre opened in 1900 with a large auditorium, a café, and a cinema. Music has been part of the theatre since its opening."
+      },
+      "longText": {
+        "da": "Teatret er tegnet af Hack Kampmann. Den store frise i toppen af facaden er skabt af Hans Tegner, og forestiller karaktererne fra Ludvig Holbergs \"Maskerade\". På toppen sidder en lille gargoil.\n\nI 1927 blev Thomas Jensen ansat som kapelmester. Han stod bag oprettelsen af Danmarks første by- og landsdelsorkestr, Aarhus By-Orkester, i 1935. I 1946 spillede byorkestret første gang som operakapel til en opsætning af Mozarts \"Don Juan\".\n\nFra 1955 var Scala-salen byorkestrets koncert- og prøvesal. I dag har Århus Teater foruden Store Scene og Scala, også Stiklingen og Studioscenen.\n\nÅrhus Teater åbnede d. 15. september 1900 med Niels W. Gades \"Ossian-ouverture\", efterfulgt af Ludvig Holbergs \"Erasmus Montanus\", og afsluttede med August Ennas opera \"Prinsessen på ærten\".",
+        "en": "The theatre was designed by Hack Kampmann. The large frieze at the top of the facade was created by Hans Tegner, depicting characters from Ludvig Holberg's \"Masquerade\". A small gargoyle sits at the very top.\n\nIn 1927, Thomas Jensen was hired as conductor. He founded Denmark's first city and regional orchestra, Aarhus City Orchestra, in 1935. In 1946, the orchestra first performed as an opera ensemble for Mozart's \"Don Giovanni\".\n\nFrom 1955, the Scala hall served as the orchestra's concert and rehearsal venue. Today the theatre includes the Main Stage, Scala, Stiklingen, and the Studio Stage.\n\nAarhus Theatre opened on September 15, 1900 with Niels W. Gade's \"Ossian Overture\", followed by Holberg's \"Erasmus Montanus\", and concluded with August Enna's opera \"The Princess and the Pea\"."
+      },
+      "facts": {
+        "da": { "Bygget": "1900", "Arkitekt": "Hack Kampmann" },
+        "en": { "Built": "1900", "Architect": "Hack Kampmann" }
+      },
+      "audio": null,
+      "images": []
+    },
+    {
+      "id": "kasino-teatret",
+      "name": { "da": "Kasino-Teatret", "en": "Casino Theatre" },
+      "address": "Rosenkrantzgade, 8000 Aarhus C",
+      "lat": 56.1548,
+      "lng": 10.2095,
+      "shortText": {
+        "da": "Kasino åbnede i 1900 som variététeater med plads til 600 tilskuere. Det blev et af byens mest populære spillesteder.",
+        "en": "Casino opened in 1900 as a variety theatre seating 600. It became one of the city's most popular venues."
+      },
+      "longText": {
+        "da": "Teatret Kasino blev bygget af varietédirektøren Marinus Olsen. Salen var den første af sin art i Danmark. Med program hver aften og servering under forestillingerne blev Kasino hurtigt populær. Kasinos direktør fra 1924, Richard Mortensen, var sammen med Vennelysts Mikkelsen blandt de drivende kræfter bag denne periodes strålende teaterliv.\n\nMortensen og Mikkelsen, aka Morten og Mikkel, var i indbyrdes konkurrence om de bedste revyer, musikalske syngespil og flotteste operaer. I 1938 gik de sammen mod deres fælles konkurrent, biograferne.\n\nUnder besættelsen gik det ned ad bakke, og i 1943 måtte teatret lukke. Bygningen blev brugt som restaurant, biograf og TV-studie, indtil den i 1982 blev brugt til sit oprindelige formål igen, da teatret \"Svalegangen\" flyttede ind.",
+        "en": "Casino Theatre was built by variety director Marinus Olsen. The hall was the first of its kind in Denmark. With nightly shows and table service during performances, Casino quickly became popular. Casino's director from 1924, Richard Mortensen, along with Vennelyst's Mikkelsen, drove the golden age of Aarhus theatre.\n\nMortensen and Mikkelsen competed fiercely over the best revues, musical plays, and operas. In 1938 they joined forces against their common competitor — the cinemas.\n\nDuring the occupation, the theatre declined and closed in 1943. The building served as restaurant, cinema, and TV studio until 1982, when the theatre company \"Svalegangen\" moved in."
+      },
+      "facts": {
+        "da": { "Åbnet": "1900", "Kapacitet": "600 tilskuere", "Lukket": "1943" },
+        "en": { "Opened": "1900", "Capacity": "600 spectators", "Closed": "1943" }
+      },
+      "audio": null,
+      "images": []
+    },
+    {
+      "id": "aarhus-hallen",
+      "name": { "da": "Aarhus-Hallen", "en": "Aarhus Hall" },
+      "address": "Skt. Knuds Torv, 8000 Aarhus C",
+      "lat": 56.1535,
+      "lng": 10.2145,
+      "shortText": {
+        "da": "Danmarks næststørste koncerthal blev indviet i 1938. Her optrådte internationale stjerner som Duke Ellington, Louis Armstrong og The Who.",
+        "en": "Denmark's second-largest concert hall opened in 1938. International stars like Duke Ellington, Louis Armstrong, and The Who performed here."
+      },
+      "longText": {
+        "da": "Aarhus-Hallen blev tegnet af arkitekten C. F. Møller, der også står bag Århus Universitets bygninger. Med plads til 5-6.000 mennesker husede hallen alt fra symfonikoncerter til cirkus, udstillinger og sportsbegivenheder.\n\nI de første sæsoner kunne man opleve Fats Waller, Svend Asmussen, Josephine Baker og Leo Mathisen. Senere gæstede Duke Ellington, Louis Armstrong og Count Basie.\n\nOmkring 1960 var storhedstiden forbi. I 1965 kom The Who til Aarhus-Hallen — bandet nåede kun at spille få minutter før publikum stormede scenen og smadrede bandets instrumenter. Året efter blev hallen lavet til bowlingbaner. I dag er det gamle Aarhus-Hal biograf- og butikskompleks.",
+        "en": "Aarhus Hall was designed by architect C. F. Møller, who also designed Aarhus University. Seating 5-6,000, it hosted everything from symphony concerts to circus, exhibitions, and sports events.\n\nIn its early seasons, audiences enjoyed Fats Waller, Svend Asmussen, Josephine Baker, and Leo Mathisen. Later, Duke Ellington, Louis Armstrong, and Count Basie performed.\n\nAround 1960, the golden era ended. In 1965, The Who came to Aarhus Hall — the band only managed to play a few minutes before the audience stormed the stage and smashed their instruments. The year after, the hall was converted to bowling lanes. Today the old hall is a cinema and shopping complex."
+      },
+      "facts": {
+        "da": { "Indviet": "1938", "Arkitekt": "C. F. Møller", "Kapacitet": "5-6.000" },
+        "en": { "Opened": "1938", "Architect": "C. F. Møller", "Capacity": "5-6,000" }
+      },
+      "audio": null,
+      "images": []
+    },
+    {
+      "id": "musikhuset",
+      "name": { "da": "Musikhuset", "en": "The Concert Hall" },
+      "address": "Thomas Jensens Allé 2, 8000 Aarhus C",
+      "lat": 56.1510,
+      "lng": 10.2000,
+      "shortText": {
+        "da": "Musikhuset åbnede i 1982 efter årtiers kamp for et ordentligt koncerthus. Gaden er opkaldt efter dirigenten Thomas Jensen.",
+        "en": "The Concert Hall opened in 1982 after decades of campaigning for a proper venue. The street is named after conductor Thomas Jensen."
+      },
+      "longText": {
+        "da": "Allerede i 1941 blev der nedsat et musikhusudvalg. Thomas Jensen, kapelmester ved Århus Teater, kæmpede i årtier for et ordentligt koncerthus. Da han i 1957 forlod Århus, skuffet over tomme løfter, var drømmen endnu ikke opfyldt. Han døde i 1963 uden at se den realiseret.\n\nFørst i 1974 kom projektet igen på tegnebrættet. Dronning Margrethes åbningstale i 1982 lød: \"Det er en gammel drøm, der her er blevet til virkelighed.\" Gaden fører hen til Musikhuset, Thomas Jensens Allé, som hyldest til den hårdtarbejdende dirigent.\n\nEfter 1983 blev Aarhus By-Orkester kaldt Aarhus Symfoniorkester. Det Jydske Musikkonservatorium flyttede ind i en tilbygning i 2007.",
+        "en": "As early as 1941, a committee was formed to plan a concert hall. Thomas Jensen, conductor at Aarhus Theatre, fought for decades to get a proper venue. When he left Aarhus in 1957, disillusioned by broken promises, the dream remained unfulfilled. He died in 1963 without seeing it realized.\n\nThe project was revived in 1974. At the 1982 opening, Queen Margrethe declared: \"This is an old dream that has finally come true.\" The street leading to the Concert Hall, Thomas Jensens Allé, honors the dedicated conductor.\n\nAfter 1983, Aarhus City Orchestra was renamed Aarhus Symphony Orchestra. The Royal Academy of Music moved into an annex in 2007."
+      },
+      "facts": {
+        "da": { "Åbnet": "1982", "Gade": "Thomas Jensens Allé" },
+        "en": { "Opened": "1982", "Street": "Thomas Jensens Allé" }
+      },
+      "audio": null,
+      "images": []
+    },
+    {
+      "id": "jazzens-indtog",
+      "name": { "da": "Jazzens Indtog", "en": "The Arrival of Jazz" },
+      "address": "Reginakrydset, 8000 Aarhus C",
+      "lat": 56.1540,
+      "lng": 10.2130,
+      "shortText": {
+        "da": "Her har jazzen i Århus taget sine spæde skridt. På Hotel Terminus kunne århusianerne første gang høre jazz i 1919.",
+        "en": "This is where jazz first took root in Aarhus. At Hotel Terminus, locals first heard jazz in 1919."
+      },
+      "longText": {
+        "da": "Da 1. verdenskrig sluttede i 1918, begyndte den nye rytmiske genre jazz at dukke op i det danske musikliv. På Ryesgade 3 blev Århus for første gang præsenteret for jazzen i 1919, da hotel \"Terminus\" introducerede et jazzorkester.\n\nByens første møde med saxofonen var da Vennelyst-musikeren Ehlers bragte instrumentet med hjem fra USA. Ehlers' kollega Anton Bjelke udtalte, at han hellere ville lade sig slæbe på sin bare fra Vennelyst til Sct. Pauls Plads end spille på sådan et monstrum — men byen forelskede sig hurtigt i instrumentet.\n\nDet første faste jazzorkester i Århus stod i 1921 bag opførslen af Regina-komplekset. Harald Andersen spillede her dag med syv mand fra 1921 til 1930.",
+        "en": "When WWI ended in 1918, jazz began appearing in Danish music life. On Ryesgade 3, Aarhus was first introduced to jazz in 1919, when Hotel \"Terminus\" brought in a jazz orchestra.\n\nThe city's first encounter with the saxophone came when Vennelyst musician Ehlers brought one back from the USA. His colleague Anton Bjelke declared he'd rather be dragged on his back from Vennelyst to St. Paul's Square than play such a monstrosity — but the city quickly fell in love with the instrument.\n\nThe first regular jazz orchestra in Aarhus was established in 1921 at the newly built Regina complex. Harald Andersen played there daily with seven musicians from 1921 to 1930."
+      },
+      "facts": {
+        "da": { "Første jazz": "1919", "Sted": "Hotel Terminus, Ryesgade 3" },
+        "en": { "First jazz": "1919", "Location": "Hotel Terminus, Ryesgade 3" }
+      },
+      "audio": null,
+      "images": []
+    },
+    {
+      "id": "hotel-royal",
+      "name": { "da": "Hotel Royal", "en": "Hotel Royal" },
+      "address": "Store Torv 4, 8000 Aarhus C",
+      "lat": 56.1568,
+      "lng": 10.2108,
+      "shortText": {
+        "da": "I 1972 blev Hotel Royal omdannet til verdens største jazzhus i 81 dage — Royal Birdland, med internationale stjerner.",
+        "en": "In 1972, Hotel Royal was transformed into the world's largest jazz house for 81 days — Royal Birdland, featuring international stars."
+      },
+      "longText": {
+        "da": "I 1972 indrettede Tagskægget sig som verdens største jazzhus i det gamle Hotel Royal, med tre værtshussale og koncertsal i marmorsalen. Formålet var at genoplive 30'ernes jazzrestauranter med bigbandorkestre. Royal Birdland var et af de mest imponerende tiltag i byens kulturliv.\n\nI 81 dage var Århus verdens jazzcenter, med mange internationale stjerner. Det kunne dog ikke løbe rundt, og efter de 81 dage rykkede Tagskægget tilbage til Klostergade.",
+        "en": "In 1972, Tagskægget transformed the old Hotel Royal into the world's largest jazz house, with three pub rooms and a concert hall in the marble room. The aim was to revive 1930s-style jazz restaurants with big band orchestras. Royal Birdland was one of the most impressive cultural ventures in the city's history.\n\nFor 81 days, Aarhus was the world's jazz center, hosting many international stars. But it wasn't financially sustainable, and after 81 days, Tagskægget moved back to Klostergade."
+      },
+      "facts": {
+        "da": { "År": "1972", "Varighed": "81 dage", "Navn": "Royal Birdland" },
+        "en": { "Year": "1972", "Duration": "81 days", "Name": "Royal Birdland" }
+      },
+      "audio": null,
+      "images": []
+    },
+    {
+      "id": "tagskaegget",
+      "name": { "da": "Tagskægget", "en": "Tagskægget" },
+      "address": "Klostergade, 8000 Aarhus C",
+      "lat": 56.1560,
+      "lng": 10.2080,
+      "shortText": {
+        "da": "Tagskægget var 70'ernes centrum for jazzlivet i Århus. Bent J. var drivkraften bag stedet, der fungerede som bro mellem byen og universitetet.",
+        "en": "Tagskægget was the center of 1970s jazz life in Aarhus. Bent J. was the driving force behind the venue, bridging town and university."
+      },
+      "longText": {
+        "da": "I starten af 1970'erne nåede jazzen sit højeste i Århus. I 1970 blev Jazzselskabet stiftet med Bent J. som formand. Selskabet blev i folkemunde kaldt Skabet, og var en vigtig bro mellem byen, jazzfolket og universitetet.\n\nTagskægget åbnede i Paradisgade og flyttede i 1969 til Klostergade, hvor det blev stedet for 70'ernes århusianske jazzmiljø. Da Tagskægget lukkede i 1980, var en af de mest succesfulde epoker i den århusianske jazzverden afsluttet.\n\nI 1973 åbnede Bent J. sit eget jazzværtshus på Nørregade, der fungerede under hans ledelse helt indtil 2008. Hans store indsats for byens jazzliv blev forewiget i Den Gamle By i 2014.",
+        "en": "In the early 1970s, jazz reached its peak in Aarhus. In 1970, the Jazz Society was founded with Bent J. as chairman. The society became an important bridge between the city, the jazz community, and the university.\n\nTagskægget opened on Paradisgade and moved to Klostergade in 1969, becoming the hub of 1970s Aarhus jazz. When it closed in 1980, one of the most successful eras in Aarhus jazz history came to an end.\n\nIn 1973, Bent J. opened his own jazz pub on Nørregade, which he ran until 2008. His contribution to the city's jazz life was immortalized at Den Gamle By museum in 2014."
+      },
+      "facts": {
+        "da": { "Aktiv": "1969-1980", "Adresse": "Klostergade" },
+        "en": { "Active": "1969-1980", "Address": "Klostergade" }
+      },
+      "audio": null,
+      "images": []
+    },
+    {
+      "id": "vestergade-58",
+      "name": { "da": "Vestergade 58", "en": "Vestergade 58" },
+      "address": "Vestergade 58, 8000 Aarhus C",
+      "lat": 56.1565,
+      "lng": 10.2035,
+      "shortText": {
+        "da": "Vestergade 58 har siden 60'erne været et af de vigtigste musikalske samlingssteder i byen. Danske grupper som Gnags og Shit & Chanel startede her.",
+        "en": "Vestergade 58 has been one of the city's most important music venues since the 1960s. Danish bands like Gnags and Shit & Chanel started here."
+      },
+      "longText": {
+        "da": "Stedet har huset spillested med mange navne siden 1967. Først hed det Jazzkælderen, derefter Trinbrædtet, Musikernes Hus og til sidst Vestergade 58.\n\nGnags vandt Danmarks Mesterskabet i beatmusik i 1969. De stiftede pladeselskabet Genlyd, og har udgivet mange af 70'erne og 80'ernes største danske navne. Med Århus-sange som \"Lav sol over Århus\" og \"Slingrer ned ad Vestergade\" cementerede bandet sig som lyden af Århus.\n\nI 1974 oprettede Anne Linnet Shit & Chanel — den første rent kvindelige rockgruppe der slog igennem. Da de havde debutkoncert på Trinbrædtet, konfronterede de publikum med fordommene om at kvinder ikke kunne spille rock, på en humoristisk måde.\n\nI 1978 etableredes Samarbejdsudvalget for Rytmisk Musik, der repræsenterede Vestergade 58, Tagskægget, Huset, Århus Jazz- og Rockmusikerforening og Studenterforeningen.",
+        "en": "The venue has operated under many names since 1967: first Jazzkælderen, then Trinbrædtet, Musikernes Hus, and finally Vestergade 58.\n\nGnags won the Danish Beat Music Championship in 1969. They founded the record label Genlyd and released many of the biggest Danish names of the 70s and 80s. With Aarhus anthems like \"Lav sol over Århus\" and \"Slingrer ned ad Vestergade\", they became the sound of Aarhus.\n\nIn 1974, Anne Linnet formed Shit & Chanel — the first all-female rock group to break through. At their debut concert at Trinbrædtet, they humorously confronted the audience's prejudices about women playing rock.\n\nIn 1978, a cooperative council for rhythmic music was established, representing Vestergade 58, Tagskægget, Huset, and the Aarhus Jazz and Rock Musicians' Association."
+      },
+      "facts": {
+        "da": { "1966": "Teater og kulturhus", "1967": "Jazzkælderen", "1968": "Trinbrædtet", "1973": "Musikernes Hus", "1978": "Vestergade 58" },
+        "en": { "1966": "Theatre and cultural house", "1967": "Jazzkælderen", "1968": "Trinbrædtet", "1973": "Musikernes Hus", "1978": "Vestergade 58" }
+      },
+      "audio": null,
+      "images": []
+    },
+    {
+      "id": "bent-j",
+      "name": { "da": "Bent J.", "en": "Bent J." },
+      "address": "Nørre Allé 66, 8000 Aarhus C",
+      "lat": 56.1600,
+      "lng": 10.2050,
+      "shortText": {
+        "da": "Bent J. Jensen (1931-2009) var drivkraften bag jazzlivet i Århus. Hans jazzværtshus på Nørregade fungerede i 35 år.",
+        "en": "Bent J. Jensen (1931-2009) was the driving force behind jazz life in Aarhus. His jazz pub on Nørregade operated for 35 years."
+      },
+      "longText": {
+        "da": "Bent J. var drivkraften bag det meste af jazzlivet i Århus fra 1950'erne til 2000'erne. Han stiftede Studenternes Jazzklub i 1954, Jazz Circle, Århus Studenterjazz i 1965, Jazzselskabet i 1970 og drev Tagskægget.\n\nI 1973 åbnede han sit eget jazzværtshus på Nørregade, der fungerede under hans ledelse helt indtil 2008, hvor det lukkede grundet dårlig økonomi og dårligt helbred.\n\nHans store indsats for byens jazzliv blev forewiget i Den Gamle By, da de i 2014 genopførte spillestedet Bent J. i museets 70'er-afdeling. Bent J. døde året efter i 2009.",
+        "en": "Bent J. drove most of the jazz scene in Aarhus from the 1950s to the 2000s. He founded the Students' Jazz Club in 1954, Jazz Circle, Aarhus Student Jazz in 1965, the Jazz Society in 1970, and ran Tagskægget.\n\nIn 1973 he opened his own jazz pub on Nørregade, which he managed until 2008 when it closed due to financial troubles and poor health.\n\nHis immense contribution to the city's jazz life was immortalized at Den Gamle By museum, which recreated the Bent J. venue in its 1970s section in 2014. Bent J. passed away in 2009."
+      },
+      "facts": {
+        "da": { "Levede": "1931-2009", "Værtshus": "Nørregade, 1973-2008" },
+        "en": { "Lived": "1931-2009", "Jazz pub": "Nørregade, 1973-2008" }
+      },
+      "audio": null,
+      "images": []
+    },
+    {
+      "id": "frederiksgade-72",
+      "name": { "da": "Frederiksgade 72", "en": "Frederiksgade 72" },
+      "address": "Frederiksgade 72, 8000 Aarhus C",
+      "lat": 56.1585,
+      "lng": 10.2100,
+      "shortText": {
+        "da": "Et af byens mest eksklusive beattempler åbnede her i 1965 under navnet Boom. Pink Floyd og Jimi Hendrix har spillet her.",
+        "en": "One of the city's most exclusive beat temples opened here in 1965 as Boom. Pink Floyd and Jimi Hendrix played here."
+      },
+      "longText": {
+        "da": "Et af de mest populære spillesteder i byen åbnede i 1965 under navnet Boom. Spille- og dansestedet blev hurtigt landets mest eksklusive beattempel. De fleste kendte danske grupper og solister spillede her, men også udenlandske orkestre kom, fx Pink Floyd.\n\nBoom serverede ikke alkohol, men det blev ændret i 1968, da stedet genåbnede som diskotek under navnet Box 72. Igen i 1980 skiftede stedet ejer, og ændrede navn til Motown. Det var fortsat et populært sted med god musik, fx Huey Lewis and the News i 1984.\n\nStørre spillesteder som Vejlby-Risskov Hallen indeni for tre uger i 1970 hyrede både Jimi Hendrix, The Rolling Stones og The Who.",
+        "en": "One of the city's most popular venues opened in 1965 as Boom. The music and dance venue quickly became the country's most exclusive beat temple. Most well-known Danish groups and soloists played here, as well as international acts like Pink Floyd.\n\nBoom didn't serve alcohol, but that changed in 1968 when it reopened as a disco called Box 72. In 1980, new owners renamed it Motown. It remained popular with great music, including Huey Lewis and the News in 1984.\n\nLarger venues like Vejlby-Risskov Hallen hosted Jimi Hendrix, The Rolling Stones, and The Who within three weeks in 1970."
+      },
+      "facts": {
+        "da": { "1965": "Boom", "1968": "Box 72", "1980": "Motown" },
+        "en": { "1965": "Boom", "1968": "Box 72", "1980": "Motown" }
+      },
+      "audio": null,
+      "images": []
+    }
+  ],
+  "routes": [
+    {
+      "id": "jazzens-aarhus",
+      "name": { "da": "Jazzens Århus", "en": "Jazz Aarhus" },
+      "description": {
+        "da": "Denne rute fører dig forbi de mange steder i byen hvor jazzen har 'spillet' en særlig rolle.",
+        "en": "This route takes you past the many places in the city where jazz has played a special role."
+      },
+      "stops": ["jazzens-indtog", "aarhus-hallen", "musikhuset", "hotel-royal", "tagskaegget", "vestergade-58", "bent-j", "frederiksgade-72"],
+      "estimatedTime": { "da": "1 time og 15 minutter", "en": "1 hour and 15 minutes" }
+    },
+    {
+      "id": "musikernes-aarhus",
+      "name": { "da": "Musikernes Århus", "en": "Musicians' Aarhus" },
+      "description": {
+        "da": "Gå en tur gennem byen med den århusianske musik i ørene. Du kan fx slingre ned ad Vestergade med Gnags.",
+        "en": "Walk through the city with Aarhus music in your ears. You might stroll down Vestergade with Gnags."
+      },
+      "stops": ["vestergade-58", "frederiksgade-72", "aarhus-hallen", "musikhuset", "kasino-teatret", "vennelyst", "bent-j"],
+      "estimatedTime": { "da": "1 time og 30 minutter", "en": "1 hour and 30 minutes" }
+    },
+    {
+      "id": "det-gamle-aarhus",
+      "name": { "da": "Det gamle Århus", "en": "Old Aarhus" },
+      "description": {
+        "da": "Århus gemmer på mange gamle skjulte historier. Du kan fx høre hvilket apotek der husede byens første teatersal.",
+        "en": "Aarhus hides many old secret stories. Discover which pharmacy housed the city's first theatre hall."
+      },
+      "stops": ["byens-tidligste-musik", "vor-frue-kirke", "aarhus-domkirke", "det-forenede-dramatiske-selskab", "polyhymnia", "aarhus-moelle", "aarhus-teater", "vennelyst"],
+      "estimatedTime": { "da": "1 time og 15 minutter", "en": "1 hour and 15 minutes" }
+    }
+  ]
+}
